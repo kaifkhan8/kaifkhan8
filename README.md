@@ -1,4 +1,4 @@
-# Hi 👋, I'm Full Stack Developer
+# Hi  I'm Full Stack Developer
 
 🌐 **Socials:**  
 - [Naukri.com](https://www.naukri.com/mnjuser/homepage)  

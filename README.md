@@ -3,7 +3,7 @@
 <!-- ====== HERO: Animated typing + neon banner ====== -->
 <p align="center">
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=7CFC00&width=780&height=60&lines=Hi+%F0%9F%91%8B+I'm+Kaif+Khan;Full-Stack+Engineer+%7C+React+%7C+Node.js;I+build+AI+%26+3D+experiences" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=7CFC00&width=780&height=60&lines=Hi+%F0%9F%91%8B+I'm+Md+Kaif;Full-Stack+Engineer+%7C+React+%7C+Node.js;I+build+AI+%26+3D+experiences" alt="typing" />
 </p>
 
 <p align="center">
